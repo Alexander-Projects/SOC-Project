@@ -1,4 +1,4 @@
-<h1>🗺️ SOC Project </h1>
+<h1>🗺️ SOC Project - Azure SIEM </h1>
 
 <h2>Description</h2>
 Deploy a honeypot to attract various threat actors. After deployment, connect the honeypot event logs to Microsoft Sentinel, a Security Information and Event Management (SIEM) tool. Within the SIEM, perform an in-depth analysis of the attacks using an attack map. <br />
